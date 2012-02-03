@@ -1,6 +1,8 @@
 jquery-select-hierarchy
 =======================
 
+Turns a single select box (note, doesn't support multiple select) with breadcrumb options into multiple dynamic ones to allow the hierarchy to be traversed. The original select is kept up-to-date with the choices so the form can be submitted as normal.
+
 Sample Usage
 ------------
 
