@@ -6,7 +6,7 @@ Turns a single select box (note, doesn't support multiple select) with breadcrum
 Sample Usage
 ------------
 
-This example keeps the original select showing to illustrate the functionality::
+This example keeps the original select visible to illustrate the functionality::
 
   <!DOCTYPE html>
   <html>
