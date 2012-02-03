@@ -40,7 +40,7 @@ This example keeps the original select showing to illustrate the functionality::
   <script src="../lib/js/jquery.select-hierarchy.js"></script>
   
   <script type="text/javascript">
-    $('select.drilldown').selecthierarchy({ hideOriginal: false });
+    $('select.drilldown').selectHierarchy({ hideOriginal: false });
   </script>
   
   </body>
